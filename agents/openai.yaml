@@ -1,0 +1,6 @@
+interface:
+  display_name: "心灯占引"
+  short_description: "塔罗、易经与命理式自我反思 readings"
+  default_prompt: "Use $fortune-divination to do a grounded tarot or I Ching style reading for my question."
+policy:
+  allow_implicit_invocation: true
